@@ -1,0 +1,5 @@
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PruebaTecnica\CapaDeModelo\bin\Debug\CapaDeModelo.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PruebaTecnica\CapaDeModelo\bin\Debug\CapaDeModelo.pdb
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PruebaTecnica\CapaDeModelo\obj\Debug\CapaDeModelo.csproj.CoreCompileInputs.cache
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PruebaTecnica\CapaDeModelo\obj\Debug\CapaDeModelo.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\PruebaTecnica\CapaDeModelo\obj\Debug\CapaDeModelo.pdb
